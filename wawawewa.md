@@ -1,3 +1,17 @@
-# Wawawewa
+# Hello World
 
-This is a new file created on the borat branch.
+## Python Hello World
+
+```python
+def hello_world():
+    print("Hello, World!")
+
+if __name__ == "__main__":
+    hello_world()
+```
+
+## JavaScript Hello World
+
+```javascript
+console.log("Hello, World!");
+```
